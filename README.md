@@ -10,11 +10,11 @@ translate 《Postgres-XC Concept, Implementation and Achievements》 to chinese
 [Postgres-XC Concept, Implementation and Achievements](https://www.enterprisedb.com/blogs/postgres-xc-concept-implementation-achievements)
 
 # 翻译进度
-- [] 1. Introduction
-- [] 2. Architecture
-- [] 3. Implementation
-- [] 4. Performance
-- [] 5. Conclusion
+- [ ] 1. Introduction
+- [ ] 2. Architecture
+- [ ] 3. Implementation
+- [ ] 4. Performance
+- [ ] 5. Conclusion
 
 # 翻译说明
 - 翻译过程中，会尽量保留原文中的代码，并添加中文注释。
